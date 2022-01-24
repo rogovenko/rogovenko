@@ -1,14 +1,12 @@
-### Hi there 👋 , I'm Ilya
-
-🤖 JavaScript Full-stack developer
+👋 Hi there, I'm Ilya
+<br />
+🤖 JavaScript developer
+<br />
 🎨 Big lover of arts and culture
 
-  <img align="left" alt="Telegram" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png" />
-@rogovenkoilya
+Telegram: @rogovenkoilya
 
-<br />
-
-#### ⚡ My Technology stack:
+#### ⚡ My stack:
 [![React](https://shields.io/badge/-React-f9fbfa?logo=react&style=for-the-badge)](https://reactjs.org/)&nbsp;
 [![Java Script](https://shields.io/badge/-Java_Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/) &nbsp;
 [![Redux](https://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badge)](https://redux.js.org/)&nbsp;
