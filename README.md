@@ -5,7 +5,9 @@
 🎨 Big lover of arts and culture
 
 Telegram: @rogovenkoilya
+<br />
 LinkedIn: www.linkedin.com/in/rogovenko
+<br />
 Email: hello@librory.org
 
 #### ⚡ My stack:
