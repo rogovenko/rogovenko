@@ -4,8 +4,6 @@
 <br />
 🎨 Big lover of arts and culture
 
-Current project: <a href="https://github.com/rogovenko/Digital-Culture" alt="project">Digital Culture</a>, freelance pro bono between culture and IT
-
 Telegram: @rogovenkoilya
 <br />
 LinkedIn: www.linkedin.com/in/rogovenko
