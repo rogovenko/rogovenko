@@ -3,6 +3,8 @@
 🤖 JavaScript developer
 <br />
 🎨 Big lover of arts and culture
+<br />
+👾 Currently working on NFT-game
 
 Telegram: @rogovenkoilya
 <br />
@@ -11,12 +13,20 @@ LinkedIn: www.linkedin.com/in/rogovenko
 Email: hello@librory.org
 
 #### ⚡ My stack:
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f5a4977b3c10ea6a3ef87a3c51e61a1c201a895c99a6c9c74a9d3efe508cd8bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074"><img src="https://camo.githubusercontent.com/f5a4977b3c10ea6a3ef87a3c51e61a1c201a895c99a6c9c74a9d3efe508cd8bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&amp;logo=JavaScript" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/7f7f82a8db00cc56b28b068b383ac4db995a3ed1e70c2b4163d205be4f166a49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d5265616374"><img src="https://camo.githubusercontent.com/7f7f82a8db00cc56b28b068b383ac4db995a3ed1e70c2b4163d205be4f166a49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d5265616374" alt="ReactJS" data-canonical-src="https://img.shields.io/badge/-React-090909?style=for-the-badge&amp;logo=React" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9f26f7e3ea9c5376fd255ee200fd783e4286ddf774a02c98a32edd96ef8c0859/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d5265647578"><img src="https://camo.githubusercontent.com/9f26f7e3ea9c5376fd255ee200fd783e4286ddf774a02c98a32edd96ef8c0859/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d5265647578" alt="Redux" data-canonical-src="https://img.shields.io/badge/-Redux-090909?style=for-the-badge&amp;logo=Redux" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e2efbe995cc739f7f42225ce0b84645828e12e404855bc3a81d07f02e51648e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d457870726573732d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d45787072657373"><img src="https://camo.githubusercontent.com/e2efbe995cc739f7f42225ce0b84645828e12e404855bc3a81d07f02e51648e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d457870726573732d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d45787072657373" alt="Express" data-canonical-src="https://img.shields.io/badge/-Express-090909?style=for-the-badge&amp;logo=Express" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d5488fa238ffa68e4e048ce66c15c51e6c74cded0ea57a974faac87f82c9da52/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d524553542532304150492d3039303930393f7374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/d5488fa238ffa68e4e048ce66c15c51e6c74cded0ea57a974faac87f82c9da52/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d524553542532304150492d3039303930393f7374796c653d666f722d7468652d6261646765" alt="API" data-canonical-src="https://img.shields.io/badge/-REST%20API-090909?style=for-the-badge" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2169becced4029be9ed6b070969933ae2cf65280d8f2b8ac6c480eec7a07812d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64654a732d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d4e6f6465"><img src="https://camo.githubusercontent.com/2169becced4029be9ed6b070969933ae2cf65280d8f2b8ac6c480eec7a07812d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64654a732d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d4e6f6465" alt="NodeJS" data-canonical-src="https://img.shields.io/badge/-NodeJs-090909?style=for-the-badge&amp;logo=Node" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/7ee985b72550da31d0ba91bf068f433f761dba9f90efe8f8102ffd851ce5e166/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35"><img src="https://camo.githubusercontent.com/7ee985b72550da31d0ba91bf068f433f761dba9f90efe8f8102ffd851ce5e166/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35" alt="HTML" data-canonical-src="https://img.shields.io/badge/-HTML-090909?style=for-the-badge&amp;logo=html5" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/16c50c96d49a2263de9fc316615341af0ef1aeae5dd7753638c0b5d4f815d14c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333"><img src="https://camo.githubusercontent.com/16c50c96d49a2263de9fc316615341af0ef1aeae5dd7753638c0b5d4f815d14c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333" alt="CSS" data-canonical-src="https://img.shields.io/badge/-CSS-090909?style=for-the-badge&amp;logo=css3" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/33e69e97332dfe189977c9b33f87c15709e31095c2b6cc17313c142ee3b1fcbd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6573742d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d6a657374"><img src="https://camo.githubusercontent.com/33e69e97332dfe189977c9b33f87c15709e31095c2b6cc17313c142ee3b1fcbd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6573742d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d6a657374" alt="Jest" data-canonical-src="https://img.shields.io/badge/-jest-090909?style=for-the-badge&amp;logo=jest" style="max-width: 100%;"></a>
+
+JavaScript
+<br />
+HTML + CSS
+<br />
+React + Redux/Saga
+<br />
+Express + PostgreSQL
+<br />
+WebGL + PlayCanvas
+
+  
+  
+#### 🎓 Learning:
+
+Unity + C#
+
