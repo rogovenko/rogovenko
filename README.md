@@ -24,7 +24,7 @@ Express + PostgreSQL
 <br />
 Babylon + PlayCanvas
 <br />
-Phaser / PiXi
+Phaser / PixiJS
 
   
   
