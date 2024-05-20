@@ -1,6 +1,6 @@
 👋 Hi there, I'm Ilya
 <br />
-🤖 JavaScript developer
+🤖 JavaScript developer from Bangkok
 <br />
 🎨 Big lover of arts and culture
 <br />
@@ -18,16 +18,16 @@ JavaScript
 <br />
 HTML + CSS
 <br />
-React + Redux/Saga
+Vue/React + Redux/Saga
 <br />
 Express + PostgreSQL
 <br />
-WebGL + PlayCanvas
+Babylon + PlayCanvas
+<br />
+Phaser / PiXi
 
   
   
 #### 🎓 Learning:
 
-Unity + C#
-<br />
-Solana + Anchor + Rust
+Rust
