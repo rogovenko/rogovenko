@@ -14,20 +14,14 @@ Email: hello@librory.org
 
 #### ⚡ My stack:
 
-JavaScript
+JavaScript / TypeScript
 <br />
 HTML + CSS
 <br />
 Vue/React + Redux/Saga
 <br />
-Express + PostgreSQL
+Express + PostgreSQL + Redis/Bull
 <br />
 Babylon + PlayCanvas
 <br />
 Phaser / PixiJS
-
-  
-  
-#### 🎓 Learning:
-
-Rust
