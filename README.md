@@ -4,7 +4,7 @@
 <br />
 🎨 Big lover of arts and culture
 <br />
-👾 Currently working on NFT-game
+👾 Currently develop web-games
 
 Telegram: @rogovenkoilya
 <br />
