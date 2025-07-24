@@ -1,12 +1,12 @@
 👋 Hi there, I'm Ilya
 <br />
-🤖 JavaScript developer from Bangkok
+🤖 JavaScript/Unity developer from Bangkok
 <br />
 🎨 Big lover of arts and culture
 <br />
-👾 Currently develop web-games
+👾 Currently develop indie-games
 
-Telegram: @rogovenkoilya
+Telegram: @rogovenkoilia
 <br />
 LinkedIn: www.linkedin.com/in/rogovenko
 <br />
@@ -14,6 +14,8 @@ Email: hello@librory.org
 
 #### ⚡ My stack:
 
+Unity / C#
+<br />
 JavaScript / TypeScript
 <br />
 HTML + CSS
